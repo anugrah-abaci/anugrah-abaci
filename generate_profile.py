@@ -50,18 +50,18 @@ except ImportError:  # pragma: no cover
 #  CONFIG - edit me
 # --------------------------------------------------------------------------- #
 PROFILE = {
-    "username": "octocat",
-    "name": "The Octocat",
+    "username": "anugrah",
+    "name": "Anugrah S",
     "host": "github",
     "about": [
-        ("Name", "The Octocat"),
-        ("Role", "Full-Stack Engineer"),
+        ("Name", "Anugrah S"),
+        ("Role", "System Engineer"),
         ("Focus", "Dev tools & automation"),
         ("Status", "Shipping at 3 AM"),
     ],
     "stack": [
-        ("Langs", "Python, TypeScript, Go"),
-        ("Frontend", "React, Next.js, Tailwind"),
+        ("Langs", "Python, TypeScript, Javascript"),
+        ("Frontend", "React, Next.js, Node.js"),
         ("Backend", "FastAPI, Node, Postgres"),
         ("Infra", "Docker, AWS, GitHub Actions"),
     ],
