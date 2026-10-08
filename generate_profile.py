@@ -446,7 +446,7 @@ def build_terminal_svg(rows: list[str], user: str, name: str):
 
     # ---- typewriter footer ($ whoami -> name) ----
     CW = 7.2   # 12px monospace
-    l1, l2 = "$ whoami", f" Anugrah S — System Engineer"
+    l1, l2 = "$ whoami", "Anugrah S — System Engineer"
     y1, y2 = foot_top + 14, foot_top + 38    # line tops (cursor)
     ty0 = ROW0 + nrows * ROW_DT + SWEEP + 0.4
     STEP1, STEP2 = 0.09, 0.075
