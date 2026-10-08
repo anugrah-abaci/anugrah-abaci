@@ -53,23 +53,29 @@ PROFILE = {
     "username": "anugrah",
     "name": "Anugrah S",
     "host": "github",
+
     "about": [
         ("Name", "Anugrah S"),
         ("Role", "System Engineer"),
-        ("Focus", "Dev tools & automation"),
-        ("Status", "Shipping at 3 AM"),
+        ("Focus", "System Integration & Automation"),
+        ("Status", "Building & Shipping"),
     ],
+
     "stack": [
-        ("Langs", "Python, TypeScript, Javascript"),
-        ("Frontend", "React, Next.js, Node.js"),
-        ("Backend", "FastAPI, Node, Postgres"),
-        ("Infra", "Docker, AWS, GitHub Actions"),
+        ("Languages", "Python, JavaScript, TypeScript"),
+        ("Frontend", "React, Next.js"),
+        ("Backend", "Django, FastAPI, Node.js"),
+        ("Database", "PostgreSQL, Redis"),
+        ("DevOps", "Linux, Docker, Git, GitHub Actions"),
+        ("Systems", "Networking, APIs, WebSockets, MQTT"),
+        ("Cloud", "AWS"),
     ],
+
     "highlights": [
-        "Open-source maintainer",
-        "Built tools used by 10k+ devs",
-        "Speaker & mentor",
-        "Coffee-driven development",
+        "Full-Stack & System Integration",
+        "API & Backend Development",
+        "Automation & DevOps",
+        "Real-Time System Integration",
     ],
 }
 
